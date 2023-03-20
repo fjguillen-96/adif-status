@@ -39,7 +39,10 @@ This method allows you to add a new station to the `station_db.txt` file. It tak
 ### `update_db()`
 This method updates the `list_names` and `list_url` attributes by reading the `station_db.txt` file.
 
+## URL format
+Ensure the url is linked to a web with this kind of table. [Example link](https://www.adif.es/w/18000-atocha-cercan%C3%ADas?tipoBusqueda=proximasSalidas&trafficType=cercanias&pageFromPlid=335):
 
+![Imgur](https://i.imgur.com/YBWgzaC.png)
 
 ## Example
 

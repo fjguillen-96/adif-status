@@ -1,0 +1,3 @@
+Chamartin https://www.adif.es/w/17000-madrid-chamart%C3%ADn?tipoBusqueda=proximasSalidas&trafficType=cercanias&pageFromPlid=335
+Getafe-Industrial https://www.adif.es/w/60102-getafe-industrial?tipoBusqueda=proximasSalidas&trafficType=cercanias&pageFromPlid=335
+Atocha https://www.adif.es/w/18000-atocha-cercan%C3%ADas?tipoBusqueda=proximasSalidas&trafficType=cercanias&pageFromPlid=335
